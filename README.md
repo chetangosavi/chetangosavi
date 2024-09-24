@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Chetan Gosavi</h1>
 <div  align="center" ><img align="center" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" /></div>
-<h3 align="center">I’m Software Engineer with expertise in Java, J2EE, JavaScript, and Spring framework. Skilled in database management with SQL. Strong problem-solving abilities and a passion for creating efficient and innovative solutions.</h3>
+<h3 align="center">I’m Software Developer with expertise in Java, J2EE, JavaScript, and Spring framework. Skilled in database management with SQL. Strong problem-solving abilities and a passion for creating efficient and innovative solutions.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetangosavi&label=Profile%20views&color=0e75b6&style=flat" alt="chetangosavi" /> </p>
