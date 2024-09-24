@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Js**
   
-- 💬 Ask me about **Java,Spring-Boot,JavaScript**
+- 💬 Ask me about **Java, Spring-Boot, JavaScript**
 
 - 📫 How to reach me **chetangosavi81@gmail.com**
 
