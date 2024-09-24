@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/chetangosavii" target="blank"><img src="https://img.shields.io/twitter/follow/chetangosavii?logo=twitter&style=for-the-badge" alt="chetangosavii" /></a> </p>
 
+- 🔭 I’m currently working on **ATM-Simulator**
+
+- 🌱 I’m currently learning **React Js**
+  
 - 💬 Ask me about **Java,Spring-Boot,JavaScript**
 
 - 📫 How to reach me **chetangosavi81@gmail.com**
