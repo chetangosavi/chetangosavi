@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Chetan Gosavi</h1>
 <div  align="center" ><img align="center" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" /></div>
-<h3 align="center">I’m Software Developer with expertise in Java, J2EE, JavaScript, and Mern Stack. Skilled in database management with SQL and MongoDB. Strong problem-solving abilities and a passion for creating efficient and innovative solutions.</h3>
+<h3 align="center">I’m Software Developer with expertise in Java, JavaScript, and Mern Stack. Skilled in database management with SQL and MongoDB. Strong problem-solving abilities and a passion for creating efficient and innovative solutions.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetangosavi&label=Profile%20views&color=0e75b6&style=flat" alt="chetangosavi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chetangosavii" target="blank"><img src="https://img.shields.io/twitter/follow/chetangosavii?logo=twitter&style=for-the-badge" alt="chetangosavii" /></a> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **NodeJs ExpressJs**
 
 - 💬 Ask me about **Java,React,Nodejs**
 
